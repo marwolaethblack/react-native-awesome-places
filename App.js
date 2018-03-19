@@ -1,6 +1,8 @@
 import React from 'react';
 import { StyleSheet, Text, View, TextInput, Button, FlatList } from 'react-native';
+
 import PlaceList from './src/components/PlaceList/PlaceList';
+import PlaceInput from './src/components/PlaceInput/PlaceInput';
 
 export default class App extends React.Component {
 
@@ -8,6 +10,14 @@ export default class App extends React.Component {
     placeName: '',
     places: []
   };
+
+  textChangedHandler = (val) => {
+    this.setState(prevState => {
+      return {
+        placeName: val
+      }
+    })
+  }
 
   addPlaceHandler = () => {
     if(this.state.placeName.trim() === "") {
@@ -19,12 +29,9 @@ export default class App extends React.Component {
         places: prevState.places.concat({placeName: prevState.placeName, key: prevState.placeName})
       }
     })
-
-    console.log(this.state.places);
   }
 
   deletePlaceHandler = (index) => {
-    console.log(index);
 
     this.setState(prevState => {
       return {
@@ -39,13 +46,10 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Text>Hello!{this.state.placeName}</Text>
-        <TextInput value={this.state.placeName}
-                   placeholder="An awesome place"
-                   onChangeText={(val) => this.setState({placeName: val})}
-                   style={{width: 300}}
+        <PlaceInput addPlaceHandler={this.addPlaceHandler}
+                    placeName={this.state.placeName}
+                    textChangedHandler={this.textChangedHandler}
          />
-        <Button title="Add" 
-                onPress={this.addPlaceHandler}/>
         <PlaceList
         places={this.state.places}
         deleteHandler={this.deletePlaceHandler}
