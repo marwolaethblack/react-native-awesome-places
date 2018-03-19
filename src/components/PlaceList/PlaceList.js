@@ -6,13 +6,12 @@ const PlaceList = (props) =>(
     <View style={styles.placelist}>
         <FlatList
         data={props.places}
-        renderItem={(place,i) => {
-            console.log(place.item);
+        renderItem={({item, index}) => {
             return (
             <ListItem 
-            placeName={place.item.placeName}
+            placeName={item.placeName}
             deleteHandler={props.deleteHandler}
-            index={i}
+            index={index}
             />)
         }}
         />
