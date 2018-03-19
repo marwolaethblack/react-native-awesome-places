@@ -9,9 +9,8 @@ const PlaceList = (props) =>(
         renderItem={({item, index}) => {
             return (
             <ListItem 
-            placeName={item.placeName}
-            deleteHandler={props.deleteHandler}
-            index={index}
+            listItem={item}
+            selectHandler={props.selectHandler}
             />)
         }}
         />

@@ -3,12 +3,16 @@ import { StyleSheet, Text, View, TextInput, Button, FlatList } from 'react-nativ
 
 import PlaceList from './src/components/PlaceList/PlaceList';
 import PlaceInput from './src/components/PlaceInput/PlaceInput';
+import PlaceDetail from './src/components/PlaceDetail/PlaceDetail';
+
+import placeImage from './src/assets/niceplace.jpg'
 
 export default class App extends React.Component {
 
   state = {
     placeName: '',
-    places: []
+    places: [],
+    selectedPlace: null
   };
 
   textChangedHandler = (val) => {
@@ -26,17 +30,31 @@ export default class App extends React.Component {
 
     this.setState(prevState => {
       return {
-        places: prevState.places.concat({placeName: prevState.placeName, key: prevState.placeName})
+        places: prevState.places.concat({
+          placeName: prevState.placeName, 
+          key: Math.random(),
+          image: placeImage
+        })
       }
     })
   }
 
-  deletePlaceHandler = (index) => {
+  deletePlaceHandler = (key) => {
 
     this.setState(prevState => {
       return {
-        places: prevState.places.filter((p, i) => {
-          return i != index
+        places: prevState.places.filter((p) => {
+          return p.key !== key
+        })
+      }
+    })
+  }
+
+  selectPlaceHandler = (key) => {
+    this.setState(prevState => {
+      return {
+        selectedPlace: prevState.places.find(p => {
+          return p.key === key;
         })
       }
     })
@@ -45,14 +63,15 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Hello!{this.state.placeName}</Text>
+        <PlaceDetail selectedPlace={this.state.selectedPlace} />
+        <Text>Awesome Places</Text>
         <PlaceInput addPlaceHandler={this.addPlaceHandler}
                     placeName={this.state.placeName}
                     textChangedHandler={this.textChangedHandler}
          />
         <PlaceList
         places={this.state.places}
-        deleteHandler={this.deletePlaceHandler}
+        selectHandler={this.selectPlaceHandler}
          />
       </View>
     );
