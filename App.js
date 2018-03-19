@@ -45,7 +45,8 @@ export default class App extends React.Component {
       return {
         places: prevState.places.filter((p) => {
           return p.key !== key
-        })
+        }),
+        selectedPlace: null
       }
     })
   }
@@ -59,11 +60,23 @@ export default class App extends React.Component {
       }
     })
   }
+
+  closeModalHandler = () => {
+    this.setState(prevState => {
+      return {
+        selectedPlace: null
+      }
+    })
+  }
  
   render() {
     return (
       <View style={styles.container}>
-        <PlaceDetail selectedPlace={this.state.selectedPlace} />
+        <PlaceDetail 
+        selectedPlace={this.state.selectedPlace}
+        deletePlace={this.deletePlaceHandler}
+        closeModal={this.closeModalHandler}
+         />
         <Text>Awesome Places</Text>
         <PlaceInput addPlaceHandler={this.addPlaceHandler}
                     placeName={this.state.placeName}
@@ -72,6 +85,7 @@ export default class App extends React.Component {
         <PlaceList
         places={this.state.places}
         selectHandler={this.selectPlaceHandler}
+       
          />
       </View>
     );
