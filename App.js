@@ -15,7 +15,7 @@ export default class App extends React.Component {
   };
 
   addPlaceHandler = (placeNameFromInput) => {
-    if(this.state.placeName.trim() === "") {
+    if(placeNameFromInput.trim() === "") {
       return;
     }
 
