@@ -10,20 +10,11 @@ import placeImage from './src/assets/niceplace.jpg'
 export default class App extends React.Component {
 
   state = {
-    placeName: '',
     places: [],
     selectedPlace: null
   };
 
-  textChangedHandler = (val) => {
-    this.setState(prevState => {
-      return {
-        placeName: val
-      }
-    })
-  }
-
-  addPlaceHandler = () => {
+  addPlaceHandler = (placeNameFromInput) => {
     if(this.state.placeName.trim() === "") {
       return;
     }
@@ -31,7 +22,7 @@ export default class App extends React.Component {
     this.setState(prevState => {
       return {
         places: prevState.places.concat({
-          placeName: prevState.placeName, 
+          placeName: placeNameFromInput,
           key: Math.random(),
           image: placeImage
         })
@@ -79,8 +70,6 @@ export default class App extends React.Component {
          />
         <Text>Awesome Places</Text>
         <PlaceInput addPlaceHandler={this.addPlaceHandler}
-                    placeName={this.state.placeName}
-                    textChangedHandler={this.textChangedHandler}
          />
         <PlaceList
         places={this.state.places}
