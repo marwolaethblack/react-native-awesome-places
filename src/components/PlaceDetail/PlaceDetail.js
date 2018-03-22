@@ -21,7 +21,7 @@ class PlaceDetail extends Component{
                 </View>
                 <TouchableOpacity onPress={this.deletePlaceHandler}>
                      <View style={styles.deleteButton}>
-                        <Icon name="ios-trash" size={30} color="red" />
+                        <Icon name="md-trash" size={30} color="red" />
                     </View>
                  </TouchableOpacity>
             </View>

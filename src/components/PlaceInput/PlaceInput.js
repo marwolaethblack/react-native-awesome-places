@@ -5,7 +5,7 @@ import DefaultInput from '../UI/DefaultInput/DefaultInput';
 
 const placeInput = (props) => (
                 <DefaultInput value={props.placeName}
-                           placeHolder="An awesome place"
+                           placeholder="An awesome place"
                            onChangeText={(val) => props.placeNameChangeHandler(val)}
                            style={{width: "78%"}}
                 />

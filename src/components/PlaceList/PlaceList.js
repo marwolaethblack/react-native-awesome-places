@@ -19,7 +19,7 @@ const PlaceList = (props) => (
 
 styles = StyleSheet.create({
     placelist:{
-        width: "80%",
+        width: "100%",
     }
     
 })
