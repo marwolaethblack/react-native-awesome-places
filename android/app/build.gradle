@@ -100,7 +100,7 @@ android {
     defaultConfig {
         applicationId "com.awesomeplaces"
         minSdkVersion 16
-        targetSdkVersion 25
+        targetSdkVersion 22
         versionCode 1
         versionName "1.0"
         ndk {
@@ -118,7 +118,7 @@ android {
             }
         }
     }
-
+    
     splits {
         abi {
             reset()
@@ -131,6 +131,7 @@ android {
         release {
             minifyEnabled enableProguardInReleaseBuilds
             proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
+            signingConfig signingConfigs.release
         }
     }
     // applicationVariants are e.g. debug, release

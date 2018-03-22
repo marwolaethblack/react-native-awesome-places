@@ -3,57 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\741f3b1372605e3d8e4c526bdbe7ca98e1dfd52a\output\jars\classes.jar"
+        jar="C:\Users\Marw\.android\build-cache\bdfd257fd7fbee74321cc55f9067bf7166bae799\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_ffab7e131d49ccbace62964fdf9cb51ee2207483.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_15ae3c076a3903467c9b0dbb94d24bd5eea81ebf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\0efc10cc6de9bfaf55d82ced74cf2ee30fddda7e\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_afa04b2a0dec4539d7bc9cad31ee7781ba0a8c34.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\35acf5a755b4c6fd4588f8e6747fe7436b65cfc1\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_d28d7c53ca1509c46166b40c4c0f5a6e50beb810.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_05dbef4940c1623984a4cb4829e503d11c1a4e97.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\b720c26d5d0f75a96689ad2a54e263f643347370\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_ebcb7ca68f36948170a04917f91751066703316e.jar" />
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_00df8fb94de1257a837faca06cbf269319b0eb02.jar" />
     </item>
     <item
         is-multidex="false"
@@ -66,6 +21,194 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\8e4cf70ccc03bfe4a2312f7960dcbd67cb0f490f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_70a66d700c116d4eefb887de8af47ce22495632a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\841872522deed28f69c872c9b883683e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\9b0bf560adadcc84cca8ce03d7b295af\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\react-native-0.54.2.aar\715248726e54613a3608caa98b8e5096\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="112e6935caed6ca1c65d627777c76f0296f62867">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\ed299e07c14a10314d1ef553d52edea5c3bdd85f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_8fa0744e012e7f5a8dba46e9b798cab32529ef38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\8cf2f1604145951f485eea881d3e57701097ffc7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_d43bda1ef11555de15ca1dd898896709db7bd7d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_229981b43b63d2af3eda8282092deda0eebc4386.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\0efc10cc6de9bfaf55d82ced74cf2ee30fddda7e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_afa04b2a0dec4539d7bc9cad31ee7781ba0a8c34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\Desktop\rn\awesome-places\node_modules\react-native-vector-icons\android\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\3ebc061dfaf51c27196075c4ddc98d49c7bdc080\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_ec07b1ca38bd9f6c99ace2855999c5e5c5ba5775.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\e3e13db54240aec2020dde821fb54b61cf8c9af1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_7f2ac4bc03a8e42b16dc24e8e3943dd6948c577a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_49c1dd5d0d68397f6c0fccb66462cf31a735ea31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\Desktop\rn\awesome-places\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ea3694ab3e55f2bedb3737e2bdecfa462ce190ff">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_0443f41d211b974df5927eda57bd599504c206be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\0810d901addfb5b47b3216ee6793d110\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\4898b13f2ddba36d4edce9fe9496005a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\35acf5a755b4c6fd4588f8e6747fe7436b65cfc1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_d28d7c53ca1509c46166b40c4c0f5a6e50beb810.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_1923c8ecfbe0fb8503e40a890818646856520cd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_05dbef4940c1623984a4cb4829e503d11c1a4e97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\ba5b65b6449a0cda3a4bd2222d37ff16\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Marw\.android\build-cache\e1e7f5319d575a5e826067941df46f1c7bd798e2\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -75,66 +218,128 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
         revision="27.0.3"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_234c3a76427254938b760e7a4a05ac19040f74d7.jar" />
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\15.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\b38b187b0fbace887eee43883c4f8fca3452d8d6\output\jars\classes.jar"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\045c90ab6caf86864f7b944af82992d8\jars\classes.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
         revision="27.0.3"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_0b089222d852a3bf29fae42214a592101ac7c1bf.jar" />
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\21.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d9043eaf6128a0edf4fbf8dbef67d766\jars\classes.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_f4fae975bec1af6cda32ba25376775c67ddfe34b.jar" />
+        revision="27.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\32.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\2f21ab066621f0c0606bd88f2a5a406b5def49f2\output\jars\classes.jar"
+        jar="C:\Users\Marw\.android\build-cache\f347f7b7ebdb1349bafc0bae8ad6dfde7d880013\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_84fd5f6821ad8aaff57dd283b66f9eed79f9ae7f.jar" />
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_7ec4844721e58bcacf339a21bde026cda0401fcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\16ece5353625280d69b2d3fd8d675bb9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\24.jar" />
     </item>
     <item
         is-multidex="false"
         jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
         revision="27.0.3"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_1ba7c8abdfb3bec30ff05fec9b0b7eb83198fae0.jar" />
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\26.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\9bb7024932dde9ea4e32d6f4023f78ecdffe2437\output\jars\classes.jar"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\a8acfd65c35c685653dcb1316805509b\jars\classes.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
         revision="27.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_2385db27697e9228e22eda1d18a2841acc8e537f.jar" />
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\22.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\19833ffd184fd647af738c8c9339c3f4764e5702\output\jars\classes.jar"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\aee955308fc36ff5d2b66d7e7d660c09\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\react-native-0.54.2.aar\715248726e54613a3608caa98b8e5096\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_234c3a76427254938b760e7a4a05ac19040f74d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_1923c8ecfbe0fb8503e40a890818646856520cd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_e14b6bd6679797580f3a3e5eeacec39f2b870064.jar" />
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_15ae3c076a3903467c9b0dbb94d24bd5eea81ebf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\Desktop\rn\awesome-places\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_be852ca2c0b069f0515026a55a8f2423fa528d5a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -156,138 +361,138 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\e3e13db54240aec2020dde821fb54b61cf8c9af1\output\jars\classes.jar"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
         revision="27.0.3"
-        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_7f2ac4bc03a8e42b16dc24e8e3943dd6948c577a.jar" />
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\27.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\3ed1e6cdf86404b91df46dc35e59195f\jars\classes.jar"
         jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_1923c8ecfbe0fb8503e40a890818646856520cd1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\8e4cf70ccc03bfe4a2312f7960dcbd67cb0f490f\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_70a66d700c116d4eefb887de8af47ce22495632a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\e440b84852751ea7763d1a5004b8695d80cee940\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_d0e8aed78d23feab5018897504a840536e0bb559.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Marw\Desktop\rn\awesome-places\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_be852ca2c0b069f0515026a55a8f2423fa528d5a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_49c1dd5d0d68397f6c0fccb66462cf31a735ea31.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\ed299e07c14a10314d1ef553d52edea5c3bdd85f\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_8fa0744e012e7f5a8dba46e9b798cab32529ef38.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_05dbef4940c1623984a4cb4829e503d11c1a4e97.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\65308049ef4a2f03b371607f3badcab31d2fcea9\output\jars\classes.jar"
-        jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
         revision="27.0.3"
         sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_7d92e0a892d7b5c2fd546f09de7f5d5ee16a6bfb.jar" />
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\34.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jar="C:\Users\Marw\.android\build-cache\e1e7f5319d575a5e826067941df46f1c7bd798e2\output\jars\libs\infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_49c1dd5d0d68397f6c0fccb66462cf31a735ea31.jar" />
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_a1540f061c375210b110916f978a7ce437be04e7.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\f347f7b7ebdb1349bafc0bae8ad6dfde7d880013\output\jars\classes.jar"
+        jar="C:\Users\Marw\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
         revision="27.0.3"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_7ec4844721e58bcacf339a21bde026cda0401fcf.jar" />
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\35.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\3ebc061dfaf51c27196075c4ddc98d49c7bdc080\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_ec07b1ca38bd9f6c99ace2855999c5e5c5ba5775.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_234c3a76427254938b760e7a4a05ac19040f74d7.jar" />
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_15ae3c076a3903467c9b0dbb94d24bd5eea81ebf.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\bdfd257fd7fbee74321cc55f9067bf7166bae799\output\jars\classes.jar"
+        jar="C:\Users\Marw\Desktop\rn\awesome-places\node_modules\react-native-navigation\android\app\build\intermediates\intermediate-jars\release\classes.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
         revision="27.0.3"
-        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_00df8fb94de1257a837faca06cbf269319b0eb02.jar" />
+        sha1="53d02d7ec64a17294218dec40af1ee4bb62d076b">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\36.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\fa81023a6ce165bf16b3a0dd3854fc8fff70c7a3\output\jars\classes.jar"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\3e99fe36997790aa592c41d5acf0887b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\f2c56161f1b3e68880cdbe8a6b707078\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_6245e82682c952e90a6706d687faa4358bac3660.jar" />
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_5eebdec79ae679341e5684d63d2be04ea976b28d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\2f21ab066621f0c0606bd88f2a5a406b5def49f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_84fd5f6821ad8aaff57dd283b66f9eed79f9ae7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\59a25a78539ab1b31b6ec71f775d0670\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\414dee5e167000d6497fe8bba61f1858\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_1ba7c8abdfb3bec30ff05fec9b0b7eb83198fae0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -303,9 +508,18 @@
         jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="27.0.3"
+        revision="23.0.1"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
         <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_f4fae975bec1af6cda32ba25376775c67ddfe34b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\fa81023a6ce165bf16b3a0dd3854fc8fff70c7a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_6245e82682c952e90a6706d687faa4358bac3660.jar" />
     </item>
     <item
         is-multidex="false"
@@ -318,57 +532,165 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\Desktop\rn\awesome-places\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\classes.jar"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\fb9394d5840cda0dec36f3048d7d8bfd\jars\classes.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
         revision="27.0.3"
-        sha1="ea3694ab3e55f2bedb3737e2bdecfa462ce190ff">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_0443f41d211b974df5927eda57bd599504c206be.jar" />
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\2cf7641c78b1afae7f74e5da181d14bc\jars\classes.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
         revision="27.0.3"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_229981b43b63d2af3eda8282092deda0eebc4386.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\8cf2f1604145951f485eea881d3e57701097ffc7\output\jars\classes.jar"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\d9973d711ad2ea4eb0f598ab635160ba\jars\classes.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
         revision="27.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_d43bda1ef11555de15ca1dd898896709db7bd7d4.jar" />
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\7.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\57f725ee1744c68c94d8c9fc1d871ac1\jars\classes.jar"
         jumboMode="false"
+        min-sdk-version="16"
         optimize="true"
-        revision="23.0.1"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_15ae3c076a3903467c9b0dbb94d24bd5eea81ebf.jar" />
+        revision="27.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\10.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_5eebdec79ae679341e5684d63d2be04ea976b28d.jar" />
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_49c1dd5d0d68397f6c0fccb66462cf31a735ea31.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\e1e7f5319d575a5e826067941df46f1c7bd798e2\output\jars\libs\infer-annotations-4.0.jar"
+        jar="C:\Users\Marw\.android\build-cache\65308049ef4a2f03b371607f3badcab31d2fcea9\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_a1540f061c375210b110916f978a7ce437be04e7.jar" />
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_7d92e0a892d7b5c2fd546f09de7f5d5ee16a6bfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\2a6952a61fa9406757be33da55515aea\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\b22e5d0af1a9c3cf4dbf95cdb0a4d475\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\741f3b1372605e3d8e4c526bdbe7ca98e1dfd52a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_ffab7e131d49ccbace62964fdf9cb51ee2207483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_234c3a76427254938b760e7a4a05ac19040f74d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\b38b187b0fbace887eee43883c4f8fca3452d8d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_0b089222d852a3bf29fae42214a592101ac7c1bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\19833ffd184fd647af738c8c9339c3f4764e5702\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_e14b6bd6679797580f3a3e5eeacec39f2b870064.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\9bb7024932dde9ea4e32d6f4023f78ecdffe2437\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_2385db27697e9228e22eda1d18a2841acc8e537f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\b720c26d5d0f75a96689ad2a54e263f643347370\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_ebcb7ca68f36948170a04917f91751066703316e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\3aca91414a84cf2799a8144b5ebbe00e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\12.jar" />
     </item>
     <item
         is-multidex="false"
@@ -381,12 +703,50 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jar="C:\Users\Marw\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\1e5788a9cbaf1d62b36f7dc317c6c203\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_1923c8ecfbe0fb8503e40a890818646856520cd1.jar" />
+        revision="27.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_05dbef4940c1623984a4cb4829e503d11c1a4e97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_f4fae975bec1af6cda32ba25376775c67ddfe34b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\e440b84852751ea7763d1a5004b8695d80cee940\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_d0e8aed78d23feab5018897504a840536e0bb559.jar" />
     </item>
 
 </items>
