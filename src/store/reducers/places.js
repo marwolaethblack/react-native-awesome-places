@@ -35,22 +35,6 @@ const placesReducer = (state = initialState, action) => {
             }
         }
 
-        case AT.SELECT_PLACE: {
-            return {
-                ...state,
-                selectedPlace: state.places.find(p => {
-                    return p.key === action.key;
-                })
-            }
-        }
-
-        case AT.DELETE_PLACE: {
-            return {
-                ...state,
-                selectedPlace: null
-            }
-        }
-
         default:
             return state;
     }

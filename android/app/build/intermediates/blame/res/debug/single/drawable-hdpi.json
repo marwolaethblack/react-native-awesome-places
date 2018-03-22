@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Marw\\.android\\build-cache\\5bcb0fc23e6960071b57be14bf9ca608288654f9\\output\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Marw\\Desktop\\rn\\awesome-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "C:\\Users\\Marw\\.android\\build-cache\\5bcb0fc23e6960071b57be14bf9ca608288654f9\\output\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
         "merged": "C:\\Users\\Marw\\Desktop\\rn\\awesome-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png",
         "source": "C:\\Users\\Marw\\.android\\build-cache\\5bcb0fc23e6960071b57be14bf9ca608288654f9\\output\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Marw\\Desktop\\rn\\awesome-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Marw\\.android\\build-cache\\5bcb0fc23e6960071b57be14bf9ca608288654f9\\output\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "C:\\Users\\Marw\\Desktop\\rn\\awesome-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png",

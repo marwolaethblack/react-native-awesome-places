@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\741f3b1372605e3d8e4c526bdbe7ca98e1dfd52a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_ffab7e131d49ccbace62964fdf9cb51ee2207483.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
         jumboMode="false"
         optimize="true"
@@ -21,6 +30,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\35acf5a755b4c6fd4588f8e6747fe7436b65cfc1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_d28d7c53ca1509c46166b40c4c0f5a6e50beb810.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
         jumboMode="false"
         optimize="true"
@@ -30,12 +48,48 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\b720c26d5d0f75a96689ad2a54e263f643347370\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_ebcb7ca68f36948170a04917f91751066703316e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\538be1225409822beb117ea95b3421b9177e3edb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_3cf6997443094c4c28463c3321c31787cd1c885f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\e1e7f5319d575a5e826067941df46f1c7bd798e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="112e6935caed6ca1c65d627777c76f0296f62867">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_e94c8359e650e7f32a13dcdd7e205f8967062e00.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
         <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_234c3a76427254938b760e7a4a05ac19040f74d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\b38b187b0fbace887eee43883c4f8fca3452d8d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_0b089222d852a3bf29fae42214a592101ac7c1bf.jar" />
     </item>
     <item
         is-multidex="false"
@@ -66,12 +120,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jar="C:\Users\Marw\.android\build-cache\9bb7024932dde9ea4e32d6f4023f78ecdffe2437\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_9a0bb184cb4dfea1ec02947868cc469d0cea7c8a.jar" />
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_2385db27697e9228e22eda1d18a2841acc8e537f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -102,12 +156,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\c0048307198ac2f7308cc5bd43f230a9da6a487d\output\jars\classes.jar"
+        jar="C:\Users\Marw\.android\build-cache\e3e13db54240aec2020dde821fb54b61cf8c9af1\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_9f655f91d5fa2c42158efab1ab46919cd7032b25.jar" />
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_7f2ac4bc03a8e42b16dc24e8e3943dd6948c577a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -129,21 +183,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\b17dff2e45b77f87b4b975ae4254d0a52590be26\output\jars\classes.jar"
+        jar="C:\Users\Marw\.android\build-cache\e440b84852751ea7763d1a5004b8695d80cee940\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_b0c336ccc7f1c4717eda5dbb68bab6691e95c500.jar" />
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_d0e8aed78d23feab5018897504a840536e0bb559.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\c0048307198ac2f7308cc5bd43f230a9da6a487d\output\jars\libs\internal_impl-23.0.1.jar"
+        jar="C:\Users\Marw\Desktop\rn\awesome-places\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_106a973a2aad67567c4b3e64ada828c397877f15.jar" />
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_be852ca2c0b069f0515026a55a8f2423fa528d5a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -156,12 +210,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\ed299e07c14a10314d1ef553d52edea5c3bdd85f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_8fa0744e012e7f5a8dba46e9b798cab32529ef38.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
         <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_05dbef4940c1623984a4cb4829e503d11c1a4e97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\65308049ef4a2f03b371607f3badcab31d2fcea9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_7d92e0a892d7b5c2fd546f09de7f5d5ee16a6bfb.jar" />
     </item>
     <item
         is-multidex="false"
@@ -183,21 +255,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\b17dff2e45b77f87b4b975ae4254d0a52590be26\output\jars\libs\infer-annotations-4.0.jar"
+        jar="C:\Users\Marw\.android\build-cache\3ebc061dfaf51c27196075c4ddc98d49c7bdc080\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_23a44b7ca7ed295d55f68ff0d61773cfc3c80f80.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Marw\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_9a0bb184cb4dfea1ec02947868cc469d0cea7c8a.jar" />
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_ec07b1ca38bd9f6c99ace2855999c5e5c5ba5775.jar" />
     </item>
     <item
         is-multidex="false"
@@ -210,12 +273,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\bdfd257fd7fbee74321cc55f9067bf7166bae799\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_00df8fb94de1257a837faca06cbf269319b0eb02.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Marw\.android\build-cache\fa81023a6ce165bf16b3a0dd3854fc8fff70c7a3\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
         <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_6245e82682c952e90a6706d687faa4358bac3660.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\52eafd398fe762a456008120fcdd7aea9499d2ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_dd567cc57a34892773f30e99b4d705976fb2ee50.jar" />
     </item>
     <item
         is-multidex="false"
@@ -228,6 +309,42 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\6b1a5fe70f813c73a11a7f78aba1719e1e8512c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_b67971d80c99cf216b4aa818d161e46301ac66b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\Desktop\rn\awesome-places\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ea3694ab3e55f2bedb3737e2bdecfa462ce190ff">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_0443f41d211b974df5927eda57bd599504c206be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_229981b43b63d2af3eda8282092deda0eebc4386.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\8cf2f1604145951f485eea881d3e57701097ffc7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_d43bda1ef11555de15ca1dd898896709db7bd7d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
         jumboMode="false"
         optimize="true"
@@ -237,21 +354,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Marw\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_5eebdec79ae679341e5684d63d2be04ea976b28d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marw\.android\build-cache\e1e7f5319d575a5e826067941df46f1c7bd798e2\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_a1540f061c375210b110916f978a7ce437be04e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Marw\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
         <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_1ba7c8abdfb3bec30ff05fec9b0b7eb83198fae0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Marw\.android\build-cache\5bcb0fc23e6960071b57be14bf9ca608288654f9\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="C:\Users\Marw\Desktop\rn\awesome-places\android\app\build\intermediates\pre-dexed\debug\classes_552243ff32de25606a956a7d7419d39b0839e05b.jar" />
     </item>
     <item
         is-multidex="false"

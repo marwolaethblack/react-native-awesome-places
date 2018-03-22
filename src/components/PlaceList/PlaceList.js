@@ -2,7 +2,7 @@ import React from 'react';
 import { StyleSheet, Text, View, Button, FlatList } from 'react-native';
 import ListItem from './ListItem';
 
-const PlaceList = (props) =>(
+const PlaceList = (props) => (
     <View style={styles.placelist}>
         <FlatList
         data={props.places}
