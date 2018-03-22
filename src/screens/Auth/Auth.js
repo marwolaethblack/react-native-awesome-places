@@ -20,7 +20,7 @@ class AuthScreen extends Component {
 
            <View style={styles.container}>
                <HeadingText style={styles.inputText}>Please Login</HeadingText>
-               <Button title="Switch to login"/>
+               <Button title="Switch to login" onPress={()=> alert("To be done")}/>
                <View style={styles.inputContainer}>
                     <DefaultInput style={styles.inputText} placeholderTextColor="#f7f7f7" placeholder="Your E-mail Address" />
                     <DefaultInput style={styles.inputText} placeholderTextColor="#f7f7f7" placeholder="Password" />
